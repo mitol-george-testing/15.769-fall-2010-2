@@ -1,0 +1,35 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Operations Management"
+    ],
+    [
+      "Business",
+      "Supply Chain Management"
+    ],
+    [
+      "Business",
+      "Globalization"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "284bc262-a1df-8a5b-6f48-64f0ae21244f",
+      "5cd9c16e-3937-a8a3-2da2-504a0bac8ac6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Operations Strategy",
+  "course_description": "_15.769 Operations Strategy_ provides a unifying framework for analyzing strategic issues in manufacturing and service operations. Students analyze the relationships between manufacturing and service companies and their suppliers, customers, and competitors. The course covers strategic decisions in technology, facilities, vertical integration, human resources, and other areas, and also explores means of competition such as cost, quality, and innovativeness.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.769",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
